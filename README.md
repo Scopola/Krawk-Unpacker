@@ -1,3 +1,3 @@
-# Krawk-Unpacker
+# Krawk Unpacker
 
-Base: ConfuserEx Unpacker By Cawk 1.0
+> Thx to Cawk for ConfuserEx-Unpacker
